@@ -1,0 +1,59 @@
+----item----
+version: 1
+id: {235891A1-2916-4746-B9BA-2E7D63F5F043}
+database: master
+path: /sitecore/templates/Data Exchange/Providers/Screen Scrapping/Endpoints/Sitecore Index Endpoint/__Standard Values
+parent: {81F81B5E-520F-44F3-99F6-ABAEAA60B04D}
+name: __Standard Values
+master: {00000000-0000-0000-0000-000000000000}
+template: {81F81B5E-520F-44F3-99F6-ABAEAA60B04D}
+templatekey: Sitecore Index Endpoint
+created: 20170728T152848Z
+
+----field----
+field: {3C7F78CC-0C5C-4076-80EF-9A49FDA5FF96}
+name: ConverterType
+key: convertertype
+content-length: 144
+
+Sitecore.DataExchange.Providers.ScreenScrapping.Converters.Endpoints.IndexNameEndpointConverter, Sitecore.DataExchange.Providers.ScreenScrapping
+----version----
+language: en
+version: 1
+revision: 3e0c723b-d0aa-4dd6-99f6-e0b908c72f67
+
+----field----
+field: {638F33BF-974B-4E6F-8070-A9854FEA8CC7}
+name: IndexName
+key: indexname
+content-length: 21
+
+sitecore_master_index
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20170723T121805Z
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+3e0c723b-d0aa-4dd6-99f6-e0b908c72f67
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20170804T180918Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 14
+
+sitecore\admin

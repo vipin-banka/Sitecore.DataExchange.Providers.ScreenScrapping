@@ -1,0 +1,59 @@
+----item----
+version: 1
+id: {DCF9AE1E-FA18-4811-8338-D143174C3911}
+database: master
+path: /sitecore/templates/Data Exchange/Providers/Screen Scrapping/Pipeline Steps/Read Sitemap Step/__Standard Values
+parent: {DA26D688-3281-44B8-9562-1FDF63B3C2F2}
+name: __Standard Values
+master: {00000000-0000-0000-0000-000000000000}
+template: {DA26D688-3281-44B8-9562-1FDF63B3C2F2}
+templatekey: Read Sitemap Step
+created: 20170723T125742Z
+
+----field----
+field: {3C7F78CC-0C5C-4076-80EF-9A49FDA5FF96}
+name: ConverterType
+key: convertertype
+content-length: 146
+
+Sitecore.DataExchange.Providers.ScreenScrapping.Converters.PipelineSteps.ReadSitemapStepConverter, Sitecore.DataExchange.Providers.ScreenScrapping
+----field----
+field: {A83A2EB2-BFA1-4D3F-9F17-0CC6C9A91C42}
+name: ProcessorType
+key: processortype
+content-length: 146
+
+Sitecore.DataExchange.Providers.ScreenScrapping.Processors.PipelineSteps.ReadSitemapStepProcessor, Sitecore.DataExchange.Providers.ScreenScrapping
+----version----
+language: en
+version: 1
+revision: 87a40c6c-dbf0-4b1e-9567-94a7426b3889
+
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20170723T125742Z
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+87a40c6c-dbf0-4b1e-9567-94a7426b3889
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20170804T181434Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 14
+
+sitecore\admin

@@ -1,0 +1,59 @@
+----item----
+version: 1
+id: {E41109D7-BD0C-4F1E-83EF-DB518C2626F8}
+database: master
+path: /sitecore/templates/User Defined/Demo/Course Detail/Data/ShortDescription
+parent: {48D1FC23-BE41-43C3-9995-92047CF9D9B7}
+name: ShortDescription
+master: {00000000-0000-0000-0000-000000000000}
+template: {455A3E98-A627-4B40-8035-E683A0331AC7}
+templatekey: Template field
+created: 20170725T122835Z
+
+----field----
+field: {AB162CC0-DC80-4ABF-8871-998EE5D7BA32}
+name: Type
+key: type
+content-length: 9
+
+Rich Text
+----field----
+field: {BA3F86A2-4A1C-4D78-B63D-91C2779C1B5E}
+name: __Sortorder
+key: __sortorder
+content-length: 3
+
+300
+----version----
+language: en
+version: 1
+revision: 787f59a5-2c71-40e3-b1c1-07ffe9d75063
+
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20170724T175621Z
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+787f59a5-2c71-40e3-b1c1-07ffe9d75063
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20170817T085408Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 14
+
+sitecore\admin

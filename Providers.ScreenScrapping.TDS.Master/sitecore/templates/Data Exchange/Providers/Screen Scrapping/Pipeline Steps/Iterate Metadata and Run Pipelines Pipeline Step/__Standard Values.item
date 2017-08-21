@@ -1,0 +1,59 @@
+----item----
+version: 1
+id: {24B8FDD7-1D5F-4DF1-9BF7-15782C1EF085}
+database: master
+path: /sitecore/templates/Data Exchange/Providers/Screen Scrapping/Pipeline Steps/Iterate Metadata and Run Pipelines Pipeline Step/__Standard Values
+parent: {BAB718F4-96EC-460A-B4FE-CCBB35189C79}
+name: __Standard Values
+master: {00000000-0000-0000-0000-000000000000}
+template: {BAB718F4-96EC-460A-B4FE-CCBB35189C79}
+templatekey: Iterate Metadata and Run Pipelines Pipeline Step
+created: 20170723T140755Z
+
+----field----
+field: {3C7F78CC-0C5C-4076-80EF-9A49FDA5FF96}
+name: ConverterType
+key: convertertype
+content-length: 165
+
+Sitecore.DataExchange.Providers.ScreenScrapping.Converters.PipelineSteps.IterateMetadataAndRunPipelinesStepConverter, Sitecore.DataExchange.Providers.ScreenScrapping
+----field----
+field: {A83A2EB2-BFA1-4D3F-9F17-0CC6C9A91C42}
+name: ProcessorType
+key: processortype
+content-length: 165
+
+Sitecore.DataExchange.Providers.ScreenScrapping.Processors.PipelineSteps.IterateMetadataAndRunPipelinesStepProcessor, Sitecore.DataExchange.Providers.ScreenScrapping
+----version----
+language: en
+version: 1
+revision: d837950f-e2a9-415a-bbc5-e0d8fdf7fefa
+
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20160514T163619Z
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+d837950f-e2a9-415a-bbc5-e0d8fdf7fefa
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20170804T181401Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 14
+
+sitecore\admin

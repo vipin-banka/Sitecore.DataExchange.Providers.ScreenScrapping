@@ -1,0 +1,59 @@
+----item----
+version: 1
+id: {0DE4952A-93FA-4861-9707-AD97CBE1AA8B}
+database: master
+path: /sitecore/templates/Data Exchange/Providers/Screen Scrapping/Pipeline Steps/Read Excel File Step/__Standard Values
+parent: {7E574187-CB7B-4A2D-9B06-75F81E645E3A}
+name: __Standard Values
+master: {00000000-0000-0000-0000-000000000000}
+template: {7E574187-CB7B-4A2D-9B06-75F81E645E3A}
+templatekey: Read Excel File Step
+created: 20170723T125559Z
+
+----field----
+field: {3C7F78CC-0C5C-4076-80EF-9A49FDA5FF96}
+name: ConverterType
+key: convertertype
+content-length: 148
+
+Sitecore.DataExchange.Providers.ScreenScrapping.Converters.PipelineSteps.ReadExcelFileStepConverter, Sitecore.DataExchange.Providers.ScreenScrapping
+----field----
+field: {A83A2EB2-BFA1-4D3F-9F17-0CC6C9A91C42}
+name: ProcessorType
+key: processortype
+content-length: 148
+
+Sitecore.DataExchange.Providers.ScreenScrapping.Processors.PipelineSteps.ReadExcelFileStepProcessor, Sitecore.DataExchange.Providers.ScreenScrapping
+----version----
+language: en
+version: 1
+revision: b85208ed-6010-44a1-8ce8-0d57035da688
+
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20170723T125559Z
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+b85208ed-6010-44a1-8ce8-0d57035da688
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20170804T181419Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 14
+
+sitecore\admin
