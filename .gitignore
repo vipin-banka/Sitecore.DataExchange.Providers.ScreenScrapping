@@ -1,0 +1,10 @@
+﻿
+.vs
+bin
+node_modules
+obj
+packages
+*.user
+gulpfile-config.js
+gulpfile-config-local.js
+/SRR.Website/Stout.Website/DataImport
